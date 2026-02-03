@@ -2,6 +2,8 @@ import pandas as pd
 import random
 from math import dist
 
+# Define number of cities to be visited
+
 NUMBER_OF_CITIES = 2009
 
 def load_data(data='data.txt'):
