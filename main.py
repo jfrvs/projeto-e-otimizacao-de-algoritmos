@@ -2,7 +2,7 @@ import pandas as pd
 import random
 from math import dist
 
-# Define number of cities to be visited (deprecated)
+# Define number of cities to be visited (deprecated) 
 
 NUMBER_OF_CITIES = 2009
 
